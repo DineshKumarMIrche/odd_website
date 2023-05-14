@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/odd_website/static/css/main.72c1664f.css",
+    "main.js": "/odd_website/static/js/main.aac42784.js",
+    "static/js/787.2cb86a5c.chunk.js": "/odd_website/static/js/787.2cb86a5c.chunk.js",
+    "index.html": "/odd_website/index.html",
+    "main.72c1664f.css.map": "/odd_website/static/css/main.72c1664f.css.map",
+    "main.aac42784.js.map": "/odd_website/static/js/main.aac42784.js.map",
+    "787.2cb86a5c.chunk.js.map": "/odd_website/static/js/787.2cb86a5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c1664f.css",
+    "static/js/main.aac42784.js"
+  ]
+}
